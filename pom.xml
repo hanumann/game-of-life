@@ -21,7 +21,7 @@
 		<name>releases</name>
 		<url>http://13.235.135.58:8081/nexus/content/repositories/releases/</url>
 	</repository>
-</distributionManagement
+	</distributionManagement>
     <properties>
         <build.number>SNAPSHOT</build.number>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
