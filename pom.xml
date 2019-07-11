@@ -12,8 +12,8 @@
 	    <repository>
 		<uniqueVersion>false</uniqueVersion>
 		<id>nexus</id>
-		<name>Releases</name>
-		<url>http://13.127.78.1:8081/nexus/content/repositories/releases/</url>
+		<name>releases</name>
+		<url>http://13.127.78.1:8081/nexus/content/repositories/releases-candidate/</url>
 		<layout>default</layout>   
 	</repository>
 	<snapshotRepository>
