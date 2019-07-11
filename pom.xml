@@ -13,14 +13,14 @@
 		<uniqueVersion>false</uniqueVersion>
 		<id>nexus</id>
 		<name>Releases</name>
-		<url>http://13.233.123.5:8081/nexus/content/repositories/releases/</url>
+		<url>http://13.127.78.1:8081/nexus/content/repositories/releases/</url>
 		<layout>default</layout>   
 	</repository>
 	<snapshotRepository>
 		<uniqueVersion>true</uniqueVersion>
 		<id>nexus</id>
 		<name>snapshots</name>
-		<url>http://13.233.123.5:8081/nexus/content/repositories/snapshots/</url>
+		<url>http://13.127.78.1:8081/nexus/content/repositories/snapshots/</url>
 		<layout>legacy</layout>
 	</snapshotRepository>
 	
