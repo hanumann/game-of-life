@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="MacRoman"?>
 <pmd-cpd>
     <duplication lines="6" tokens="156">
-        <file line="52"
+	    <file line="52"
+		    # some msg added
               path="/Users/johnsmart/Projects/Demos/hudson-demo/gameoflife/gameoflife-core/src/test/java/com/wakaleo/gameoflife/domain/WhenYouPrintAGrid.java"/>
         <file line="58"
               path="/Users/johnsmart/Projects/Demos/hudson-demo/gameoflife/gameoflife-core/src/test/java/com/wakaleo/gameoflife/domain/WhenYouPrintAGrid.java"/>
